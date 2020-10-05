@@ -10,6 +10,11 @@
       "StackName": "amplify-awsamplifytest-dev-105453",
       "StackId": "arn:aws:cloudformation:us-east-2:629974760938:stack/amplify-awsamplifytest-dev-105453/b81f1140-071a-11eb-8032-0abbead6f3aa",
       "AmplifyAppId": "dalikxqtsuck4"
+    },
+    "categories": {
+      "auth": {
+        "awsamplifytest6265a42f": {}
+      }
     }
   }
 }
